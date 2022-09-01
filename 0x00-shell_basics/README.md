@@ -17,3 +17,5 @@
 8-firstdelete deletes the file named betty previously moved
 
 9-firstdirdeletion deletes the /tmp/my_first_directory directory
+
+10-back changes directory to the previous one
