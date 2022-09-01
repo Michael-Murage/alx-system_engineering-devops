@@ -7,3 +7,5 @@
 3-listfiles lists the files in the directory in long mode
 
 4-listmorefiles lists all files including hidden in the current directory
+
+5-listfilesdigitonly lists all files including hidden and their user and group IDs
