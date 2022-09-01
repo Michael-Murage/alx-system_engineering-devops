@@ -18,4 +18,4 @@
 
 9-firstdirdeletion deletes the /tmp/my_first_directory directory
 
-10-back changes directory to the previous one
+10-back changes directory to the previous working directory
