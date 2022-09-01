@@ -9,3 +9,5 @@
 4-listmorefiles lists all files including hidden in the current directory
 
 5-listfilesdigitonly lists all files including hidden and their user and group IDs
+
+6-firstdirectory creates a "my_first_directory" folder in tmp folder
