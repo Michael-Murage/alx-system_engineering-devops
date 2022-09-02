@@ -27,3 +27,13 @@
 13-symbolic_link creates a symbolic link to /bin/ls, named __ls__ in the current working directory
 
 14-copy_html copies all the HTML files from the current working directory to the parent of the working directory. Copies files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
+
+100-lets_move moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+101-clean_emacs
+
+102-tree
+
+103-commas
+
+school.mgc 
