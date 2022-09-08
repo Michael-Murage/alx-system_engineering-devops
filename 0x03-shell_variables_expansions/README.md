@@ -15,3 +15,4 @@
 10-love_exponent_breath displays the result of BREATH to the power LOVE
   BREATH and LOVE are environment variables
   The script should display the result, followed by a new line
+11-binary_to_decimal converts a number from base 2 to base 10.
