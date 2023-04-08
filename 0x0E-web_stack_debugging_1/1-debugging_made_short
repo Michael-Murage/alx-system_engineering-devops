@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# shorter version to make an nginx server run on port 80
+sed -i 's/8080/80/g' /etc/nginx/sites-enabled/default
+pkill -l nginx
